@@ -1,2 +1,3 @@
-# videoPlayer
-视频播放器插件
+#videoPlayer
+原生js面向对象思想封装
+
